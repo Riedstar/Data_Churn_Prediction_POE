@@ -27,4 +27,10 @@ churn-portfolio/
 └── Case\_Study\_Overview.pdf (redacted PDF)
 
 
+Add badges (shields.io: e.g., Python, Jupyter). Embed visuals: ![Churn Pie](churn_pie.png). Sections: Problem, Approach (SQL/Models), Results (F1 table), Impact (R7M uplift), Run Instructions.
+
+
+
+
+
 
